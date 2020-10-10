@@ -19,6 +19,6 @@ To participate and for successful completion of Hacktoberfest 2020 challenge, on
 
 First, register at the [Hacktoberfest website](https://hacktoberfest.digitalocean.com/) to make your pull request count. 
 
-To contribute to this repository, you need to create a markdown file in the participants folder and name it as your GitHub username, example: `soumyaa1804.md`. Inside the file, add some of your details using markdown syntax. An example file, `soumyaa1804` is already given.
+To contribute to this repository, you need to create a markdown file in the participants folder and name it as your GitHub username, example: `soumyaa1804.md`. Inside the file, add some of your details using markdown syntax. An example file, `soumyaa1804.md` is already given.
 
 _Happy Contributing!_
