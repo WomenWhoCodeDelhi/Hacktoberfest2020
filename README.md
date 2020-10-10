@@ -6,8 +6,6 @@
 
 ## Rules to participate:
 
-Rules to participate
-
 To participate and for successful completion of Hacktoberfest 2020 challenge, one must abide by the following rules to earn the limited edition Hacktoberfest tee or tree reward.
 
 * You must register and make four valid pull requests (PRs) between October 1-31.
