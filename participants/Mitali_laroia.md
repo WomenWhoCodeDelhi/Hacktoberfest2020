@@ -11,7 +11,7 @@
 Info | Description
 ------------ | -------------
 Github Username | Mitali-laroia
-Github profile link | [Mitali-laroia!](https://github.com/Mitali-laroia)
+Github profile link | [Mitali-laroia](https://github.com/Mitali-laroia)
 Favourite Framework | Node Js
 Previously Partcipated in Hacktoberfest? | No
 Any Open source experience? | Participated in HakinCodes2020
