@@ -9,5 +9,5 @@
 | Previously Partcipated in Hacktoberfest? | Yes |
 
 
-**==Let's connect on [LinkedIn](https://www.linkedin.com/in/tushti-8294a8188/)==** 
+**Let's connect on [LinkedIn](https://www.linkedin.com/in/tushti-8294a8188/)**
 
